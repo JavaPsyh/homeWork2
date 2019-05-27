@@ -1,7 +1,7 @@
 package psyh;
 
-import java.math.BigDecimal;
-import java.math.RoundingMode;
+//import java.math.BigDecimal;
+//import java.math.RoundingMode;
 
 /**
  * Реализуйте метод, возвращающий ответ на вопрос: правда ли, что a + b = c?

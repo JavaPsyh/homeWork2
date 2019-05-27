@@ -9,6 +9,7 @@ public class Main {
 //      2.3
         System.out.println(CheckResult.checkResult(0.1, 0.2, 0.3));
 //      2.4
-        System.out.println(FlipBit.flipBit(37, 4));
+        System.out.println(FlipBit.flipBit(-5, 4));
+
     }
 }
