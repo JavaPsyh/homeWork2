@@ -1,6 +1,6 @@
 package psyh;
 
-public class Main {
+public class HomeWork2App {
     public static void main(String[] args) {
 //      2.1
 <<<<<<< HEAD

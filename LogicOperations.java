@@ -6,3 +6,4 @@ public class LogicOperations {
         return (a ^ b) && (c ^ d) || (a ^ c) && (b ^ d);
     }
 }
+
