@@ -3,7 +3,7 @@ package psyh;
 public class Main {
     public static void main(String[] args) {
 //      2.1
-        System.out.println(BooleanMethod.booleanMethod(false, true, true, false));
+        System.out.println(BooleanMethod.booleanMethod(true, false, true, false));
 //      2.2
         System.out.println(LeapYears.quantityOfLeapYears(2019));
 //      2.3
