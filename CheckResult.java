@@ -5,5 +5,4 @@ public class CheckResult {
     public static boolean checkResult(double a, double b, double c){
         return Math.abs((a + b) - c) < PRECISIONOFRESULT;
     }
-
 }

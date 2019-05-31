@@ -5,4 +5,3 @@ public class FlipBit {
         return value ^ (1 << bitIndex - 1);
     }
 }
-

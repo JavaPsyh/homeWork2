@@ -6,7 +6,7 @@ public class HomeWork2App {
 <<<<<<< HEAD
         System.out.println(LogicOperations.LogicOperations(true, false, true, false));
 =======
-        System.out.println(BooleanMethod.booleanMethod(true, false, true, false));
+        System.out.println(LogicalOperations.logicalOperations(true, false, true, false));
 >>>>>>> origin/forPull
 //      2.2
         System.out.println(LeapYears.quantityOfLeapYears(2019));
